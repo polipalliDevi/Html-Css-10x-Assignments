@@ -5,3 +5,47 @@
 width: 100%;
 height: 100%;
 }
+.top {
+    border: 1px solid;
+    padding: 20px;
+    background: #f2f2f2;
+    height: 300px;
+    margin: 20px;
+}
+.left-thing {
+    width: 50%;
+    float: left;
+    text-align: left;
+    padding: 20px;
+    text-align: center;
+
+}
+#render-wiki {
+    width: 40%;
+    height: 300px;
+    padding: 20px;
+}
+.switch {
+    background: cornflowerblue;
+    height: 80px;
+    padding: 20px;
+    font-size: 20px;
+}
+.bottom {
+    background: #f2f2f2;
+    border: 1px solid;
+    margin: 20px;
+}
+.top-text {
+    width: 100%;
+    text-align: center;
+
+}
+#render-dictionary{
+    margin-top: 50px;
+    margin-left: 350px;
+    width: 50%;
+    height: 300px;
+    text-align: center;
+    border: 1px solid;
+}
